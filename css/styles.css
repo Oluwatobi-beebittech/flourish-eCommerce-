@@ -24,3 +24,27 @@ html
     text-decoration: none;
     display: inline;
 }
+
+/*Menu Bar*/
+.menuBar{
+    background-color: rgb(13, 49, 168);
+    height: 50px;
+    margin-top: -12px;
+}
+.menuBar>ul>li
+{
+    display: inline;
+    list-style-type: none;
+}
+.menuBar>ul>li>a
+{
+    text-decoration: none;
+    padding: 17px;
+    color:white;
+    line-height: 50px;
+}
+.menuBar>ul>li>a:hover
+{
+    color:white;
+    background-color: #fabe3a;
+}
