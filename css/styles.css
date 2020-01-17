@@ -1,0 +1,26 @@
+html
+{
+    background-color:#eeeeee;
+}
+.img-50-all
+{
+    max-width: 50px;
+    max-height: 50px;;
+}
+.mr-20
+{
+    margin-right: 20px;
+}
+.list-inline
+{
+    list-style-type: none;
+}
+.list-inline>li
+{
+    display: inline;
+}
+.list-inline>li>a
+{
+    text-decoration: none;
+    display: inline;
+}
